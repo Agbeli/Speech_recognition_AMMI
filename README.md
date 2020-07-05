@@ -9,4 +9,4 @@ Speech  Recognition for Low Resource Language(Twi)
 
 - The next phase of the project is to model the data using CPC model. 
     - We built Automatic Speech Recognition (ASR) system by using a pretrained model with Connectionist Temporal Classification on top of it. 
-    - We had a Character Error Rate of 0.98 and 0.908 for both training and validation set respectively[notebook](Speech_recognition_Twi.ipynb). 
+    - We had a Character Error Rate of 0.98 and 0.908 for both training and validation set respectively [notebook](Speech_recognition_Twi.ipynb). 
