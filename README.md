@@ -12,6 +12,6 @@ Speech  Recognition for Low Resource Language(Twi)
     - We had a Character Error Rate of 0.98 and 0.908 for both training and validation set respectively [notebook](Speech_recognition_Twi.ipynb). 
 
 
-##. License:
+## License:
 
 - Under the license of [MIT](License.txt) 
