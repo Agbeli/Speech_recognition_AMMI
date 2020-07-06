@@ -14,4 +14,4 @@ Speech  Recognition for Low Resource Language(Twi)
 
 ##. License:
 
-- Ghana Twi holy scriptures recording  
+- Under the license of [MIT](License.txt) 
